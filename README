@@ -1,0 +1,2 @@
+Proyecto de toma de temperatura por municipio, y en una fecha concreta.
+Se desarrolla en Python, con framework Flask y como base de datos PostgreSQL.
